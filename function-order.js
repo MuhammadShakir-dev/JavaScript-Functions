@@ -1,6 +1,7 @@
 // hitgher order functions
 // funtion that accepts other functions as a arrgumengts or as a retunr value called higher order functions.
 
+
 const callTwice = (func) => {
     func();
     func();
